@@ -1,0 +1,265 @@
+{
+  "title": "Diarrhea Quiz",
+  "questions": [
+    {
+      "question": "By clinical definition, what is the minimum duration required for diarrhea to be classified as chronic?",
+      "answerOptions": [
+        {
+          "text": "2 weeks",
+          "isCorrect": false,
+          "rationale": "This duration is typically used to define persistent diarrhea, but not yet chronic."
+        },
+        {
+          "text": "4 weeks",
+          "isCorrect": true,
+          "rationale": "Chronic diarrhea is specifically defined in the text as lasting more than 4 weeks."
+        },
+        {
+          "text": "6 weeks",
+          "isCorrect": false,
+          "rationale": "While this exceeds the minimum, the standard clinical threshold is shorter."
+        },
+        {
+          "text": "3 months",
+          "isCorrect": false,
+          "rationale": "This timeframe is mentioned as an alarm sign if symptoms last less than this, but it is not the definition of chronic."
+        }
+      ],
+      "hint": "Consider the standard clinical timeframe that distinguishes acute and persistent episodes from long-term chronic conditions."
+    },
+    {
+      "question": "Which of the following is considered an 'alarm sign' in a patient presenting with chronic diarrhea?",
+      "answerOptions": [
+        {
+          "text": "Pain relieved by defecation",
+          "isCorrect": false,
+          "rationale": "This is a characteristic symptom of Irritable Bowel Syndrome rather than an indicator of organic disease."
+        },
+        {
+          "text": "Bloody, greasy, or high-volume stools",
+          "isCorrect": true,
+          "rationale": "These features suggest underlying organic pathology such as inflammation or malabsorption."
+        },
+        {
+          "text": "Symptoms associated with emotional stress",
+          "isCorrect": false,
+          "rationale": "Stress-related symptoms are more commonly associated with functional disorders like IBS."
+        },
+        {
+          "text": "Occasional flatulence",
+          "isCorrect": false,
+          "rationale": "Flatulence is a common non-specific symptom and not a primary red flag for serious organic disease."
+        }
+      ],
+      "hint": "Identify features that suggest structural damage, systemic illness, or significant nutrient loss."
+    },
+    {
+      "question": "What is a distinguishing characteristic of osmotic diarrhea compared to secretory diarrhea?",
+      "answerOptions": [
+        {
+          "text": "It persists during fasting.",
+          "isCorrect": false,
+          "rationale": "Persistence during fasting is a hallmark of secretory diarrhea, where the intestine continues to secrete fluids."
+        },
+        {
+          "text": "It is generally painless and high volume.",
+          "isCorrect": false,
+          "rationale": "These descriptions are more typical of secretory mechanisms."
+        },
+        {
+          "text": "It disappears or improves with fasting.",
+          "isCorrect": true,
+          "rationale": "Osmotic diarrhea is caused by unabsorbed solutes in the lumen, so stopping intake removes the osmotic drive."
+        },
+        {
+          "text": "It results in an osmotic gap less than $25$ $mosmol/kg$.",
+          "isCorrect": false,
+          "rationale": "A low osmotic gap is characteristic of secretory diarrhea, whereas osmotic diarrhea has a gap $> 50$."
+        }
+      ],
+      "hint": "Think about how the intake of food or specific substances directly drives the movement of water into the gut."
+    },
+    {
+      "question": "Which laboratory marker is commonly found in the stool of a patient with inflammatory chronic diarrhea?",
+      "answerOptions": [
+        {
+          "text": "Steatorrhea greater than $32$ $gr/day$",
+          "isCorrect": false,
+          "rationale": "This level of fat excretion is more indicative of exocrine pancreatic insufficiency."
+        },
+        {
+          "text": "Calprotectin or leukocytes",
+          "isCorrect": true,
+          "rationale": "These markers indicate the presence of white blood cells and active inflammation in the intestinal mucosa."
+        },
+        {
+          "text": "Low fecal magnesium levels",
+          "isCorrect": false,
+          "rationale": "High magnesium levels would suggest laxative abuse, not necessarily inflammation."
+        },
+        {
+          "text": "Increased D-Xylose excretion",
+          "isCorrect": false,
+          "rationale": "D-Xylose is a test for mucosal absorption, and low excretion indicates malabsorption."
+        }
+      ],
+      "hint": "Look for substances that signify the recruitment of immune cells to the digestive tract."
+    },
+    {
+      "question": "According to the Rome IV criteria, what is the required frequency of abdominal pain for an IBS diagnosis?",
+      "answerOptions": [
+        {
+          "text": "At least 1 day per month",
+          "isCorrect": false,
+          "rationale": "This frequency is too low to meet the current standardized diagnostic criteria for IBS."
+        },
+        {
+          "text": "At least 1 day per week",
+          "isCorrect": true,
+          "rationale": "The Rome IV criteria specify recurrent pain at least once a week on average over the last 3 months."
+        },
+        {
+          "text": "Daily pain for at least 6 months",
+          "isCorrect": false,
+          "rationale": "While the onset must be 6 months ago, the frequency requirement is weekly, not daily."
+        },
+        {
+          "text": "Pain occurring only during sleep",
+          "isCorrect": false,
+          "rationale": "Nocturnal pain that wakes the patient is actually an alarm sign against a functional diagnosis like IBS."
+        }
+      ],
+      "hint": "The criteria specify a weekly average for the frequency of the primary symptom."
+    },
+    {
+      "question": "A patient is suspected of having pancreatic cholera (VIPoma). Which set of symptoms best matches this diagnosis?",
+      "answerOptions": [
+        {
+          "text": "Bloody diarrhea with high fever and tenesmus",
+          "isCorrect": false,
+          "rationale": "These symptoms are characteristic of inflammatory diarrhea or infections, not a hormonal tumor."
+        },
+        {
+          "text": "Massive watery diarrhea, hypokalemia, and achlorhydria",
+          "isCorrect": true,
+          "rationale": "VIPoma causes profound secretion resulting in 'WDHA syndrome' (Watery Diarrhea, Hypokalemia, Achlorhydria)."
+        },
+        {
+          "text": "Steatorrhea with dermatitis herpetiformis",
+          "isCorrect": false,
+          "rationale": "This combination is highly suggestive of Celiac disease."
+        },
+        {
+          "text": "Constipation alternating with diarrhea and moco in stool",
+          "isCorrect": false,
+          "rationale": "This pattern is typical of Irritable Bowel Syndrome."
+        }
+      ],
+      "hint": "Consider the effects of massive intestinal secretion and the resulting electrolyte and acid imbalances."
+    },
+    {
+      "question": "The D-Xylose absorption test is primarily used to evaluate the function of which area?",
+      "answerOptions": [
+        {
+          "text": "Exocrine pancreas",
+          "isCorrect": false,
+          "rationale": "Pancreatic function is evaluated by tests like the secretin stimulation test, not carbohydrate absorption tests."
+        },
+        {
+          "text": "Proximal small intestine mucosa",
+          "isCorrect": true,
+          "rationale": "D-Xylose is a sugar absorbed in the proximal small bowel; low levels in urine indicate mucosal damage."
+        },
+        {
+          "text": "Terminal ileum",
+          "isCorrect": false,
+          "rationale": "The terminal ileum is specifically evaluated via tests for bile acid or Vitamin $B_{12}$ absorption."
+        },
+        {
+          "text": "Colonic motility",
+          "isCorrect": false,
+          "rationale": "D-Xylose is absorbed before reaching the colon and does not assess transit speed."
+        }
+      ],
+      "hint": "This test measures the ability of the first part of the small bowel to absorb simple carbohydrates."
+    },
+    {
+      "question": "Which histological finding is pathognomonic for Whipple's disease in a small bowel biopsy?",
+      "answerOptions": [
+        {
+          "text": "Total absence of plasma cells",
+          "isCorrect": false,
+          "rationale": "This finding is characteristic of agammaglobulinemia, not Whipple's disease."
+        },
+        {
+          "text": "Dilated lymphatics and thickened villi",
+          "isCorrect": false,
+          "rationale": "These findings are typical of intestinal lymphangiectasia."
+        },
+        {
+          "text": "$PAS+$ macrophages in the lamina propria",
+          "isCorrect": true,
+          "rationale": "The presence of macrophages containing Periodic Acid-Schiff positive bacilli is the classic diagnostic feature."
+        },
+        {
+          "text": "Flattened villi with crypt hypertrophy",
+          "isCorrect": false,
+          "rationale": "This is a non-specific finding often seen in Celiac disease or Tropical Sprue."
+        }
+      ],
+      "hint": "Look for a specific type of immune cell containing stained bacterial components."
+    },
+    {
+      "question": "Tropical Sprue is often clinically indistinguishable from Celiac Disease. What is a key difference in their management or diagnosis?",
+      "answerOptions": [
+        {
+          "text": "Tropical Sprue responds to a gluten-free diet.",
+          "isCorrect": false,
+          "rationale": "Unlike Celiac disease, Tropical Sprue does not improve when gluten is removed from the diet."
+        },
+        {
+          "text": "Tropical Sprue is treated with long-term antibiotics and folic acid.",
+          "isCorrect": true,
+          "rationale": "Treatment typically involves tetracyclines and folic acid supplementation for several months."
+        },
+        {
+          "text": "Biopsy in Tropical Sprue shows normal villi.",
+          "isCorrect": false,
+          "rationale": "Biopsy in Tropical Sprue shows villous atrophy similar to Celiac disease."
+        },
+        {
+          "text": "Tropical Sprue only affects the distal ileum.",
+          "isCorrect": false,
+          "rationale": "The histological changes in Tropical Sprue are usually present with similar intensity throughout the small intestine."
+        }
+      ],
+      "hint": "Consider the presumed infectious etiology of one and the dietary trigger of the other."
+    },
+    {
+      "question": "Which condition is characterized by fat malabsorption accompanied by intestinal protein loss, edema, and lymphopenia?",
+      "answerOptions": [
+        {
+          "text": "Exocrine Pancreatic Insufficiency",
+          "isCorrect": false,
+          "rationale": "This condition causes steatorrhea but does not typically cause lymphopenia or primary protein-losing enteropathy."
+        },
+        {
+          "text": "Intestinal Lymphangiectasia",
+          "isCorrect": true,
+          "rationale": "Blocked or malformed lymphatics lead to the leakage of lymph (containing fat, proteins, and lymphocytes) into the gut."
+        },
+        {
+          "text": "Lactose Intolerance",
+          "isCorrect": false,
+          "rationale": "This causes osmotic diarrhea due to carbohydrate malabsorption, not fat or protein loss."
+        },
+        {
+          "text": "Zollinger-Ellison Syndrome",
+          "isCorrect": false,
+          "rationale": "This is characterized by gastrin-induced acid hypersecretion and peptic ulcers."
+        }
+      ],
+      "hint": "Think about the system responsible for transporting fats and white blood cells from the intestine."
+    }
+  ]
+}
